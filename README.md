@@ -8,7 +8,7 @@ of my educational experiences.
 ### 🌵 Personal Projects
 
 - [My Homelab](https://github.com/nicholas-fedor/Homelab)
-- [My Website](https://github.com/nicholas-fedor/nicholas-fedor.github.io)
+- [My Website](https://nickfedor.com)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [goProxmox](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 
@@ -31,4 +31,3 @@ of my educational experiences.
 - [Automate the Boring Stuff with Python](https://github.com/nicholas-fedor/Automate-the-Boring-Stuff-with-Python)
 - [Python Crash Course](https://github.com/nicholas-fedor/Python-Crash-Course)
 - [Programming Rust](https://github.com/nicholas-fedor/Programming-Rust)
-
