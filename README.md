@@ -8,7 +8,7 @@ of my educational experiences.
 ### 🌵 Personal Projects
 
 - [My Homelab](https://github.com/nicholas-fedor/Homelab)
-- [My Website](https://github.com/nicholas-fedor/nicholas-fedor.github.io)
+- [My Website](https://nickfedor.com)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [goProxmox](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
