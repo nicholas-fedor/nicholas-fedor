@@ -11,7 +11,7 @@ of my educational experiences.
 - [My Website](https://nickfedor.com)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
-- [goProxmox](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
+- [goProxmox](https://github.com/nicholas-fedor/goProxmox)
 - [Cloudflare Token Generator using Go](https://github.com/nicholas-fedor/goGenerateCFToken)
 
 ### 👟 Walkthrough Tutorials
