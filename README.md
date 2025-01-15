@@ -23,8 +23,7 @@ of my educational experiences.
 
 - [Advent of Code](https://github.com/nicholas-fedor/Advent-of-Code)
 - [Learn Linux TV's Udemy Ansible Course](https://github.com/nicholas-fedor/Ansible-Course)
-- [Hashicorp's Terraform Course for
-  Docker](https://github.com/nicholas-fedor/learn-terraform-docker-container)
+- [Hashicorp's Terraform Course for Docker](https://github.com/nicholas-fedor/learn-terraform-docker-container)
 - [HTMX+Go Hardware Monitor](https://github.com/nicholas-fedor/HTMX-Hardware-Monitor)
 - [Network Programming with Go](https://github.com/nicholas-fedor/Network-Programming-with-Go)
 - [Black Hat Go](https://github.com/nicholas-fedor/BlackHatGo)
