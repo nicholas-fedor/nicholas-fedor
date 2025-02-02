@@ -14,6 +14,11 @@ of my educational experiences.
 - [goProxmox](https://github.com/nicholas-fedor/goProxmox)
 - [Cloudflare Token Generator using Go](https://github.com/nicholas-fedor/goGenerateCFToken)
 
+### 📋 Forked Projects
+
+- [Go Proxy Cache Updater GitHub Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
+- [Watchtower](https://github.com/nicholas-fedor/watchtower)
+
 ### 👟 Walkthrough Tutorials
 
 - [Adding DoQ to Windows 11](https://github.com/nicholas-fedor/AdGuard-DNS-Proxy)
