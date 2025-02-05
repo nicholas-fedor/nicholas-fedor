@@ -10,7 +10,14 @@ of my educational experiences.
 - [My Homelab](https://github.com/nicholas-fedor/Homelab)
 - [My Website](https://nickfedor.com)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
-- [goProxmox](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
+- [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
+- [goProxmox](https://github.com/nicholas-fedor/goProxmox)
+- [Cloudflare Token Generator using Go](https://github.com/nicholas-fedor/goGenerateCFToken)
+
+### 📋 Forked Projects
+
+- [Go Proxy Cache Updater GitHub Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
+- [Watchtower](https://github.com/nicholas-fedor/watchtower)
 
 ### 👟 Walkthrough Tutorials
 
@@ -21,8 +28,7 @@ of my educational experiences.
 
 - [Advent of Code](https://github.com/nicholas-fedor/Advent-of-Code)
 - [Learn Linux TV's Udemy Ansible Course](https://github.com/nicholas-fedor/Ansible-Course)
-- [Hashicorp's Terraform Course for
-  Docker](https://github.com/nicholas-fedor/learn-terraform-docker-container)
+- [Hashicorp's Terraform Course for Docker](https://github.com/nicholas-fedor/learn-terraform-docker-container)
 - [HTMX+Go Hardware Monitor](https://github.com/nicholas-fedor/HTMX-Hardware-Monitor)
 - [Network Programming with Go](https://github.com/nicholas-fedor/Network-Programming-with-Go)
 - [Black Hat Go](https://github.com/nicholas-fedor/BlackHatGo)
