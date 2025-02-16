@@ -9,6 +9,7 @@ of my educational experiences.
 
 - [My Homelab](https://github.com/nicholas-fedor/Homelab)
 - [My Website](https://nickfedor.com)
+- [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [Cloudflare Token Generator using Go](https://github.com/nicholas-fedor/goGenerateCFToken)
