@@ -25,7 +25,7 @@ of my educational experiences.
 - [Adding DoQ to Windows 11](https://github.com/nicholas-fedor/AdGuard-DNS-Proxy)
 - [Setting up a Talos Linux Cluster on Proxmox](https://github.com/nicholas-fedor/Self-Hosted-Talos)
 
-### 📖 Learning-related Projects
+### 📖 Educational Projects
 
 - [Advent of Code](https://github.com/nicholas-fedor/Advent-of-Code)
 - [Learn Linux TV's Udemy Ansible Course](https://github.com/nicholas-fedor/Ansible-Course)
