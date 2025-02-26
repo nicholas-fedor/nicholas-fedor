@@ -18,6 +18,7 @@ of my educational experiences.
 
 - [Go Proxy Cache Updater GitHub Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
 - [Watchtower](https://github.com/nicholas-fedor/watchtower)
+- [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
 
 ### 👟 Walkthrough Tutorials
 
