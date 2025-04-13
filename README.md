@@ -11,15 +11,16 @@ of my educational experiences.
 - [My Website](https://nickfedor.com)
 - [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
 - [go-remove](https://github.com/nicholas-fedor/go-remove)
+- [goGenerateCFToken](https://github.com/nicholas-fedor/goGenerateCFToken)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
-- [Cloudflare Token Generator using Go](https://github.com/nicholas-fedor/goGenerateCFToken)
 
 ### 📋 Forked Projects
 
-- [Go Proxy Cache Updater GitHub Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
 - [Watchtower](https://github.com/nicholas-fedor/watchtower)
 - [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+- [go-proxy-pull-action](https://github.com/nicholas-fedor/go-proxy-pull-action)
+- [govulncheck-action](https://github.com/nicholas-fedor/govulncheck-action)
 
 ### 👟 Walkthrough Tutorials
 
