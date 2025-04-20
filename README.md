@@ -7,7 +7,6 @@ of my educational experiences.
 
 ### 🌵 Personal Projects
 
-- [My Homelab](https://github.com/nicholas-fedor/papagolab)
 - [My Website](https://nickfedor.com)
 - [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
 - [go-remove](https://github.com/nicholas-fedor/go-remove)
