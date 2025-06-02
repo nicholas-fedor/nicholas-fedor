@@ -18,6 +18,7 @@ of my educational experiences.
 
 - [Watchtower](https://github.com/nicholas-fedor/watchtower)
 - [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+- [Shoutrrr Action](https://github.com/nicholas-fedor/shoutrrr-action)
 - [go-proxy-pull-action](https://github.com/nicholas-fedor/go-proxy-pull-action)
 - [govulncheck-action](https://github.com/nicholas-fedor/govulncheck-action)
 
