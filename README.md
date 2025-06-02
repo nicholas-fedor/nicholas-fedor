@@ -9,18 +9,19 @@ of my educational experiences.
 
 - [My Website](https://nickfedor.com)
 - [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
-- [go-remove](https://github.com/nicholas-fedor/go-remove)
-- [goGenerateCFToken](https://github.com/nicholas-fedor/goGenerateCFToken)
+- [Go Binary Remover CLI Tool](https://github.com/nicholas-fedor/go-remove)
+- [Cloudflare Token Generator CLI Tool](https://github.com/nicholas-fedor/goGenerateCFToken)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
+- [Youtube UI Tampermonkey Script](https://github.com/nicholas-fedor/youtube-dynamic-grid)
 
 ### 📋 Forked Projects
 
 - [Watchtower](https://github.com/nicholas-fedor/watchtower)
 - [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-- [Shoutrrr Action](https://github.com/nicholas-fedor/shoutrrr-action)
-- [go-proxy-pull-action](https://github.com/nicholas-fedor/go-proxy-pull-action)
-- [govulncheck-action](https://github.com/nicholas-fedor/govulncheck-action)
+- [Shoutrrr GH Action](https://github.com/nicholas-fedor/shoutrrr-action)
+- [pkg.go.dev Update GH Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
+- [Go govulncheck GH Action](https://github.com/nicholas-fedor/govulncheck-action)
 
 ### 👟 Walkthrough Tutorials
 
