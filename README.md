@@ -8,9 +8,10 @@ of my educational experiences.
 ### 🌵 Personal Projects
 
 - [My Website](https://nickfedor.com)
-- [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
+- [Touch](https://github.com/nicholas-fedor/touch)
 - [Go Binary Remover CLI Tool](https://github.com/nicholas-fedor/go-remove)
 - [Cloudflare Token Generator CLI Tool](https://github.com/nicholas-fedor/goGenerateCFToken)
+- [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [Youtube UI Tampermonkey Script](https://github.com/nicholas-fedor/youtube-dynamic-grid)
