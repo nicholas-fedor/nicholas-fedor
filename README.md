@@ -2,9 +2,6 @@
 
 ## Welcome to my GitHub Profile
 
-This is my personal account, where I curate a number of projects and share some
-of my educational experiences.
-
 ### 🌵 Personal Projects
 
 - [My Website](https://nickfedor.com)
