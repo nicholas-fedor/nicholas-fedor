@@ -4,7 +4,7 @@
 
 ### 🌵 Personal Projects
 
-- [My Website]([https://nickfedor.com](https://github.com/nicholas-fedor/nickfedor.com))
+- [My Website](https://github.com/nicholas-fedor/nickfedor.com)
 - [goUpdater](https://github.com/nicholas-fedor/goupdater)
 - [Touch](https://github.com/nicholas-fedor/touch)
 - [Go Binary Remover CLI Tool](https://github.com/nicholas-fedor/go-remove)
