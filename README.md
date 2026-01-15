@@ -5,7 +5,6 @@
 ### 🌵 Personal Projects
 
 - [My Website](https://github.com/nicholas-fedor/nickfedor.com)
-- [goUpdater](https://github.com/nicholas-fedor/goupdater)
 - [Touch](https://github.com/nicholas-fedor/touch)
 - [Go Binary Remover CLI Tool](https://github.com/nicholas-fedor/go-remove)
 - [Cloudflare Token Generator CLI Tool](https://github.com/nicholas-fedor/goGenerateCFToken)
