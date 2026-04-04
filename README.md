@@ -20,6 +20,7 @@
 - [Shoutrrr GH Action](https://github.com/nicholas-fedor/shoutrrr-action)
 - [pkg.go.dev Update GH Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
 - [Go govulncheck GH Action](https://github.com/nicholas-fedor/govulncheck-action)
+- [Speedtest-Go](https://github.com/nicholas-fedor/speedtest-go)
 
 ### 👟 Walkthrough Tutorials
 
