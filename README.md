@@ -9,6 +9,7 @@
 - [Go Binary Remover CLI Tool](https://github.com/nicholas-fedor/go-remove)
 - [Cloudflare Token Generator CLI Tool](https://github.com/nicholas-fedor/goGenerateCFToken)
 - [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
+- [actionlint GH Action](https://github.com/nicholas-fedor/actionlint-action)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [Youtube UI Tampermonkey Script](https://github.com/nicholas-fedor/youtube-dynamic-grid)
