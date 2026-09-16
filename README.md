@@ -1,43 +1,43 @@
 # ![Hello from Arizona](banner.png)
 
-## Welcome to my GitHub Profile
+## 🌵 Nick Fedor's Personal GitHub Repository
 
-### 🌵 Personal Projects
+### Projects
+
+#### Websites
 
 - [My Website](https://github.com/nicholas-fedor/nickfedor.com)
-- [Touch](https://github.com/nicholas-fedor/touch)
+- [Watchtower Documentation](https://github.com/gowatchtower/watchtower-docs)
+
+#### Docker Services
+
+- [Watchtower](https://github.com/nicholas-fedor/watchtower)
+
+#### Web Apps
+
+- [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
+- [Outtake](https://github.com/PapagoLabs/outtake)
+
+#### CLI Tools
+
 - [Go Binary Remover CLI Tool](https://github.com/nicholas-fedor/go-remove)
 - [Cloudflare Token Generator CLI Tool](https://github.com/nicholas-fedor/goGenerateCFToken)
-- [EUI-64 Calculator](https://github.com/nicholas-fedor/eui64-calculator)
+- [Touch](https://github.com/nicholas-fedor/touch)
+
+#### Libraries
+
+- [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
+- [Speedtest-Go](https://github.com/nicholas-fedor/speedtest-go)
+
+#### GitHub Actions
+
+- [Shoutrrr GH Action](https://github.com/nicholas-fedor/shoutrrr-action)
 - [actionlint GH Action](https://github.com/nicholas-fedor/actionlint-action)
+- [pkg.go.dev Update GH Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
+- [Go govulncheck GH Action](https://github.com/nicholas-fedor/govulncheck-action)
+
+#### Misc
+
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [Youtube UI Tampermonkey Script](https://github.com/nicholas-fedor/youtube-dynamic-grid)
-
-### 📋 Forked Projects
-
-- [Watchtower](https://github.com/nicholas-fedor/watchtower)
-- [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
-- [Shoutrrr GH Action](https://github.com/nicholas-fedor/shoutrrr-action)
-- [pkg.go.dev Update GH Action](https://github.com/nicholas-fedor/go-proxy-pull-action)
-- [Go govulncheck GH Action](https://github.com/nicholas-fedor/govulncheck-action)
-- [Speedtest-Go](https://github.com/nicholas-fedor/speedtest-go)
-
-### 👟 Walkthrough Tutorials
-
-- [Adding DoQ to Windows 11](https://github.com/nicholas-fedor/AdGuard-DNS-Proxy)
-- [Setting up a Talos Linux Cluster on Proxmox](https://github.com/nicholas-fedor/Self-Hosted-Talos)
-
-### 📖 Educational Projects
-
-- [Advent of Code](https://github.com/nicholas-fedor/Advent-of-Code)
-- [Learn Linux TV's Udemy Ansible Course](https://github.com/nicholas-fedor/Ansible-Course)
-- [Hashicorp's Terraform Course for Docker](https://github.com/nicholas-fedor/learn-terraform-docker-container)
-- [HTMX+Go Hardware Monitor](https://github.com/nicholas-fedor/HTMX-Hardware-Monitor)
-- [Network Programming with Go](https://github.com/nicholas-fedor/Network-Programming-with-Go)
-- [Black Hat Go](https://github.com/nicholas-fedor/BlackHatGo)
-- [Learning Go](https://github.com/nicholas-fedor/Learning-Go)
-- [The Go Programming Language](https://github.com/nicholas-fedor/The-Go-Programming-Language)
-- [Automate the Boring Stuff with Python](https://github.com/nicholas-fedor/Automate-the-Boring-Stuff-with-Python)
-- [Python Crash Course](https://github.com/nicholas-fedor/Python-Crash-Course)
-- [Programming Rust](https://github.com/nicholas-fedor/Programming-Rust)
