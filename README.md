@@ -40,6 +40,7 @@
 #### Misc
 
 - [OAuth Git Credential Helper](https://github.com/nicholas-fedor/git-credential-oauth)
+- [Claude Code Usage Monitor for KDE Plasma](https://github.com/nicholas-fedor/clankerwatch)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [Youtube UI Tampermonkey Script](https://github.com/nicholas-fedor/youtube-dynamic-grid)
