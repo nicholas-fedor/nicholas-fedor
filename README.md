@@ -26,6 +26,7 @@
 
 #### Libraries
 
+- [AdGuard Home Library/CLI](https://github.com/nicholas-fedor/agh-cli)
 - [Shoutrrr](https://github.com/nicholas-fedor/shoutrrr)
 - [Speedtest-Go](https://github.com/nicholas-fedor/speedtest-go)
 
