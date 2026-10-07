@@ -39,6 +39,7 @@
 
 #### Misc
 
+- [OAuth Git Credential Helper](https://github.com/nicholas-fedor/git-credential-oauth)
 - [Packer Proxmox Template Creator](https://github.com/nicholas-fedor/Proxmox-Template-Creator)
 - [Terraform Proxmox VM Creator](https://github.com/nicholas-fedor/Proxmox-Terraform)
 - [Youtube UI Tampermonkey Script](https://github.com/nicholas-fedor/youtube-dynamic-grid)
